@@ -2,5 +2,4 @@
 git_demo
 git demo readme started 
 content added 
-readme added to commit
-chances done on readme3
+git remote change 1
